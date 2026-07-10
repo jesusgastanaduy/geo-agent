@@ -45,8 +45,8 @@ def render_monitor(extracted, tool_calls):
             st.caption("No se ejecutaron tools en este turno.")
 
 
-st.set_page_config(page_title="Peru Wildfire Analysis Chat", layout="wide")
-st.title("Peru Wildfire Analysis Chat")
+st.set_page_config(page_title="Chatbot especializado en incendios forestales en Perú 🔥🌲", layout="wide")
+st.title("Chatbot especializado en incendios forestales en Perú 🔥🌲")
 
 with st.sidebar:
     st.header("Opciones")
